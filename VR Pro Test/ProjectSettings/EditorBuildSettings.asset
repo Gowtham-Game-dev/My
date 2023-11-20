@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/VR_Archery_Starter_Project_V6/Assets/Scenes/ArcheryScene.unity
+    guid: c5c5785ecf03f66428c22824f4690bdd
+  - enabled: 1
+    path: Assets/Animation/GameOver/GameOver.unity
+    guid: 736c70d211fec174cb9c4c7738bf77c9
+  - enabled: 1
+    path: Assets/Animation/WinScreen/Win.unity
+    guid: aa6b7872fa454a64287bbded6ebc7941
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: de8ba4d97db39e442a92c0aef503332a,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 2cff93f86f0557149aa6d059ab63dc5e,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 03ad18b8e10d94c449df577d8bb20ac9,
+      type: 2}
